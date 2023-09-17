@@ -1,0 +1,1 @@
+type Custom = number | string
